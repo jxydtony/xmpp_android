@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_text_selected">#ffffff</color>
+    <color name="color_text_normal">#888888</color>
+    <color name="color_text_black">#000000</color>
+    <color name="color_listitem_bg">#ffffff</color>
+    <color name="chatactivity_list_bg_color">#cccccc</color>
+    <color name="commom_text_color">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="listitem_pressed">#149FDF</color>
+</resources>

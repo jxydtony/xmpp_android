@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- BasicLoading -->
+    <declare-styleable name="BasicLoading">
+        <attr name="duration" format="integer"/>
+        <attr name="title" format="string"/>
+    </declare-styleable>
+    
+    <!-- CycleLoading -->
+    <declare-styleable name="CycleLoading">
+        <attr name="startBg" format="reference"/>
+        <attr name="endBg" format="reference"/>
+    </declare-styleable>
+    
+</resources>

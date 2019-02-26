@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="chart_margin_bottom">30px</dimen>
+    <dimen name="dimen_chatactivity_text_date_textsize">12sp</dimen>
+    <dimen name="dimen_chatactivity_text_content_textsize">18sp</dimen>
+    <dimen name="dimen_chatactivity_text_bottom_menu_textsize">15sp</dimen>
+    <dimen name="dimen_chatactivity_receipt_marginright">10dp</dimen>
+    
+    
+</resources>
